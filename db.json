@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "luis",
+      "empresa": "Camejo Constructores",
+      "email": "luis@camejoconstructores.com",
+      "telefono": "6456456456",
+      "notas": "fue editado",
+      "id": 1
+    }
+  ]
+}
